@@ -1,0 +1,10 @@
+
+{
+    "name": "XARIUS",
+    "description": "Jouez jusqu'à 4 joueurs en local dans une course spatiale déjantée ! Soyez le plus rapide et dépassez tous vos adversaires !",
+    "creator": "Jordan Septier",
+    "year": 2025,
+    "type": "Jeu de course",
+    "players": "1 à 4 joueurs",
+    "highscores": []
+}
